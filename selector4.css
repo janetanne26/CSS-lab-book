@@ -1,0 +1,14 @@
+a:link{
+    text-decoration: none;
+   color: gray
+   }
+   a:visited{
+    text-decoration: none;
+   color: gray;
+   }
+   a:hover{
+    text-decoration: none;
+   color: green;
+   font-weight: bolder;
+   letter-spacing: 2px;
+   }

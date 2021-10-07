@@ -1,0 +1,44 @@
+/*ex: 3.1*/
+*{
+    background-color: aqua;
+    color: brown;
+}
+
+/* ex:3.2*/
+h1{
+    color: red;
+}
+div{
+    color: darkviolet;
+}
+p{
+    color: fuchsia;
+}
+
+/* ex: 3.3 */
+#p1, #p2, #p3{
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+#p4, #p5{
+       font-style: oblique;
+       text-align: justify;
+       font-size: 24px;
+       color: black;
+}
+
+/* ex: 3.4 */
+.para_class{
+    text-shadow:chartreuse;
+    font-weight: bolder;
+    color: chocolate;
+}
+.div_class{
+    font-style: initial;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-indent: 0vh;
+    text-decoration-color: khaki;
+    text-decoration-style:double;
+    font-stretch: narrower;
+}
